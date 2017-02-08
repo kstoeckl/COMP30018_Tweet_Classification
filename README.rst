@@ -12,6 +12,7 @@
     content of their tweet.
 
     The possible locations of the users and the corresponding tags were,
+    
         | Boston          B
         | Seatle          Se
         | Houston         H
@@ -86,7 +87,7 @@
     The following additional metrics and graphics correspond to the 
     Validation Tweets.
 
-    ..figure:: https://raw.githubusercontent.com/kstoeckl/COMP30018_Tweet_Classification/master/ConfusionMatrix.png/ConfusionMatrix.png
+    ..figure:: https://raw.githubusercontent.com/kstoeckl/COMP30018_Tweet_Classification/master/ConfusionMatrix.png
 
 **Extensions:**
     There are a number of possible extensions too this project.
@@ -128,7 +129,7 @@ featureSelection.py:
     Uses Regex, countVectorizer and the Chi2 Test to identify the k 
     best ngrams in terms of their score in the Chi2 test.
 
-    Significant code segments modified `from
+    Significant code segments modified from `here
     <http://scikit-learn.org/dev/auto_examples/text/document_classification_20newsgroups.html#>`_.
 
 
@@ -142,7 +143,7 @@ model.py:
 
     Also has the capacity to hyper-parameter optimization, however this code 
     is currently commented out.
-    Also generates the confusion_matrix graphic using code modified `from
+    Also generates the confusion_matrix graphic using code modified from `here
     <http://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html#example-model-selection-plot-confusion-matrix-py>`_.
 
 
