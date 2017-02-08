@@ -1,0 +1,200 @@
+756546  5362058 Listeing to Mac Break Weekly    SD
+756546  5365004 Nothing better than Physics SD
+756546  5365027 Listening to ELO, and learning about Standing Waves.....good times  SD
+756546  5383275 Listening to CNET's Buzz Out Loud   SD
+756546  5383309 You are trying to move the mouse, Allow or Deny?    SD
+756546  5387922 PS1="Yes, Master?" $man sleep   SD
+756546  5403023 Watching "Man of The Year"  SD
+756546  5404304 Checking for new software...... SD
+756546  5404310 Where is my 10.4.9? SD
+756546  5404312 To hell with that! Where is my 10.5!?   SD
+756546  5405336 UNIX saves lives    SD
+756546  5405522 I need more RAM for my brain.   SD
+756546  5405592 Its that time...For some Barry White    SD
+756546  5405900 How about that Zune Phone?  SD
+756546  5405901 HA! SD
+756546  5406024 When you know that line of CSS should work! SD
+756546  5406026 REPLY   SD
+756546  5406040 Noting better than watching movies on your Mac screen.... :|    SD
+756546  5414604 I think Yahoo's Pipes are clogged.  SD
+756546  5417604 YOUR THE MAN NOW DOG!   SD
+756546  5419617 Billie Jean is not my lover.    SD
+756546  5419683 It's like CSS, but in the Terminal..... SD
+756546  5419713 stevewozniak vs. The Woz in a Twitter Rumble Royal! After that we can have Justine, and Veronica wrestle. :)    SD
+756546  5430422 Wishing Apple would have a special event within the next month or two   SD
+756546  5443932 Listening to Net@ Nite  SD
+756546  5446377 Re-Entering the Atmoshere at Mach 20    SD
+756546  5447962 Listening to TWiT 88:Batteries Included.    SD
+756546  5470847 Is This your Homework Larry? -The Big Lewbowski SD
+756546  5471265 Many fine books have been written in prison.    SD
+756546  5533111 Just saw "Text Expander" on Macbreak, searching the couch for money in order to buy it. SD
+756546  5560650 Importing my 2006 Family Reunion into iMovie    SD
+756546  5593973 Feeling Sick and out of it. Yet there is work to be done.   SD
+756546  5605308 Good Morning Twitter    SD
+756546  5614442 Daniel Craig was a good Bond after all. SD
+1921951 11143751    Hi everyone, this is a changelog for the sunlightlabs API   W
+1921951 11144861    NEW API METHOD: from user-request added people.sens.getSensFromState.php i.e. get the IDs of senators from a given state.   W
+1921951 11148131    modified the JSON output of all API methods to be JSON standards-compliant: now both names and values are quoted    W
+1921951 11233911    wow, so our API is being used in the capitol hill (east patio) region of Second Life    W
+1921951 12600151    Fixed a bug with the At-Large states (AK,DE,MT,ND,SD,VT,WY) for people.reps.getRepFromDistrict.php. Will now accept &district=At-Large  W
+1921951 17841571    Fixed bug in people.convertID if fromcode or tocode == entity_id and removed redundancy in output when fromcode == tocode   W
+1921951 17950201    people.getDataItem now returns "O: no data" correctly rather than "NULL"    W
+1921951 17953491    people.getDataCondition can now handle complex, &-containing URLs as input. See http://sunlightlabs.com/api/info.changelog.php  W
+1921951 20282541    created new API method to provide better zip5s -> districts data: places.109th.getDistrictsFromZip5 W
+1921951 37173792    microformats, yeah! Created new API method: people.getHCard. Get an hCard for every member of congress! W
+7083032 136429422   Going to a pool party and eating salmon tonight!    Se
+7083032 139008332   Is heading for Southern California (San Diego) today.   Se
+7083032 140253162   Is resting from a 7 hour drive to SD.   Se
+7083032 141734252   Getting into the swing of things    Se
+7083032 141966082   Arg, must eat breakfast soon!   Se
+7083032 142250412   Resting from Kung Fu    Se
+7083032 142659282   Tired from a fun evening.   Se
+7378382 143626142   Ich bin projectmanagingeringein B
+7083032 144269602   Learning Ruby on Rails  Se
+7378382 144782292   Getting the cats stoned on catnip....   B
+7083032 145207602   Uurg, late night. Must wake up! Se
+7083032 145404362   Studying Ruby on Rails  Se
+7083032 145523042   Going to Kung Fu    Se
+7083032 145741452   Making Dinner   Se
+7378382 146842202   Finding random bodies in front of my apt in Somerville... http://tinyurl.com/yp8ytq B
+7083032 147060412   Ruby, Breakfast/lunch, and Sunshine Se
+7083032 147475762   Resting from Kung Fu and coding a shopping cart in Ruby Se
+7083032 151376812   Going out for the day with guests, be back this evening.    Se
+7083032 157073182   Sore from Kung Fu. 30 seconds in horse stance with knee 1" over the ground is HARD! Se
+7083032 158776072   More Kung Fu, still sore.   Se
+7083032 158955662   Sore everywhere! But sore so good!  Se
+7083032 164341022   warming up for kung fu later today and more rails programming   Se
+7083032 172734682   Will be out of town until Wed.  Se
+7083032 173592012   New plan, no travel, just injured right leg socket and lots of sitting around.  Se
+7083032 178919852   beach today, lots of sitting around and not being able to swim, very sad!   Se
+7083032 186194322   I love elves and cartoon foxes that teach me Ruby.  Se
+7083032 235546882   Sunshine fun! Play play!    Se
+7083032 236224762   Resting after Kung Fu   Se
+7083032 236253652   I'm becoming blond.. this is a bit distressing. Se
+7083032 242999522   Sunshine and maybe beach today! Se
+7083032 247049762   Errands, sunshine, some romping and hopefully a bit of rampant flirting.    Se
+7083032 247783482   Going out to buy some drugs, no not the good kind.  Se
+7083032 247987492   Cutting up fruit and packing for the 1 day trip to SF for Google interview. Se
+7083032 248039162   Prepping car for the 7 - 8 hour drive coming up.    Se
+7083032 250198632   Sitting in Mountain View, hungry.   Se
+7083032 251572082   7.5 hours driving to Mountain View, all day in mountain view, 6.5 hours driving back. Must.. sleep... soon. Se
+7083032 251786292   Food...sleep.   Se
+7083032 253736832   Reading, trying to unwind.  Se
+7083032 253819532   Playing with "tv links" Se
+7083032 255386172   Intense craving for chocolate right now, must go rummage.   Se
+7083032 255426912   Playing with OkCupid.   Se
+7083032 255505812   Reading a list apart and so on. Se
+7083032 264580052   Roaming the countryside Se
+1921951 411812652   James Turk added address to congressional district method places.getDistrictFromAddress. Geocodes and uses info from Census.gov.    W
+13352892    700194502   working on better posture.  B
+13352892    700516902   is struggling with the work/life balance.   B
+13352892    767117969   missing Mario Cuomo and Ann Richards    B
+14410553    790468764   internet marketing  SD
+7378382 797736300   Previewing the Sunday NY Times...   B
+7378382 798098573   Trying, unsuccessfully so far, to poach some eggs...    B
+14276963    798749495   Thanks for trying out WhoShouldIFollow.com! Unfortunately it wasn't quite ready when it leaked out. We'll be launching for real this week.  B
+14276963    799654432   http://WhoShouldiFollow.com is ready! Give it a try and let us know what you think. We hope you find someone interesting to follow. B
+7378382 799708415   Working from home - organizing and planning the rest of my week!    B
+14596012    800149415   playing with this   W
+14276963    800297850   @shanselman We fixed a couple bugs, and whoshouldifollow.com/shanselman now works   B
+14276963    800298334   @millette We fixed a couple bugs, and whoshouldifollow.com/millette now works   B
+14276963    800298951   @mjb We fixed a couple bugs, and whoshouldifollow.com/mjb now works B
+14276963    800299499   Thanks for good feedback! We fixed a couple bugs that prevented recommendations for a few people yesterday. B
+7378382 800509756   Pruning my inbox....    B
+7378382 800721474   Just finished wrestling with some post-it notes.... B
+7378382 801451856   Wrestling, reluctantly, with Microsoft Project....  B
+7378382 802770340   Reading about the Twitter blacklist.. .http://twitterblacklist.com/about.html   B
+14276963    804953073   Having helped people find new folks to follow, we thought this someecard was hilarious (and often true): http://is.gd/b6A   B
+7378382 807302478   Updating lots of lists....  B
+7378382 809398156   Organizing how to approach this week (though this should have been done last night, not this morning... (hooked on Brothers & Sisters ....) B
+14590923    811227900   Steering box on the Jeep crapped out (3rd one). Spent some xtra cash on an AGR replacement...hopefully that'll last longer than Waggy box.  B
+14590923    811231429   Anyone got a sailcloth softtop on their Jeep? My 10 year old OEM top is just about done. Thinking sailcloth is way to go.   B
+14590923    811232311   Just got my POR15 in the mail. Next step...sandblast the flaky powdercoat off my rocker guards and engine skid. Ugh.    B
+14590923    811274825   @MichelSavoie thanks man. Can't wait to get my 98 out in the warm weather again. Love "jeep season."    B
+14590923    811897600   Just noticed an exhaust leak near my Banks Torque Tube connection. Something else to add to the Spring fix-it list. Ahhhh...Jeeps.  B
+7378382 814903729   Ready to start a whirlwind of a week - but first, dentist appointment calls.... B
+7378382 815497363   Enjoying Charlie Rose tonight on PBS and Googl-ing long-lost high school classmates - 20th HS reunion is looming....    B
+7378382 816168578   I, too, have succumbed to watching Dancing with the Stars after a rerun of No Reservations, all done while pruning my inbox.... B
+14590923    816806742   Looking like a great weekend to take the top down in Boston area. Reminds me..I need to re-duct tape the big hole in my top..getting wet.   B
+14590923    816808510   My inspection sticker is expiring soon. Always a "treat" in MA to get a lifted Jeep inspected. Have to bring a 6-pack for the tech. B
+14590923    817418557   @dshuck Jeeps and crawfish...mmmmm. B
+7378382 818345438   Feel like I have to talk a vendor into taking our CRM business - scratch that one off the list...   B
+7378382 821681763   Interacting with Sharepoint, always the highlight of my day!........... not!    B
+7378382 826221914   Meetings, and unmeetings, emails, getting ready to go on vacation for a few days.....   B
+7378382 828811421   Back from P-town... a bit rainy but still lots of fun!  B
+14590923    831607834   Took Jeep out yesterday and pass side caliper froze up....  B
+14590923    831609444   ..."tried" to move the Jeep today and it wouldn't start. Battery is junk...tough week for my TJ (glad I bought a Tacoma last year for my dd)    B
+1921951 838898124   *BIG* Sunlight API changes coming, would like to talk with anyone currently using the API   W
+14590923    841614403   Replaced battery in Jeep. Still wouldn't start. Had to replace starter too. Rough summer for my Jeep so far.    B
+14590923    841616391   Just got rocker guards & engine skid back from sandblasting. Flaky powdercoat and rust is gone. Next step, POR15 on all of them.    B
+13352892    844266089   taking care of croup master nate    B
+14276963    844436607   Like Twitter itself, WSiF has had a little server problem this week and is offline. Hope to have it up and running with improvements soon.  B
+1921951 847939632   New API is live, official launch coming soon. Twitterers, check it out early: http://tinyurl.com/3phzr8 feedback welcome    W
+7378382 855029080   After several sweltering days, finally, some relief. Laptops and 90-degree weather don't mix well, even with A/C....    B
+15279144    865614303   Just added our newest Featured Artist, The Panda Page. Check it out http://tinyurl.com/6acmpv   H
+15279144    865614905   Also, added a couple new "Spine Online" entries. In short, theres a lot of new content up.  H
+7378382 866198884   last day before vacation. feels good to tie up loose ends.....  B
+15279144    866637608   Just posted a couple new Field Guides to the American People. Including Obama Voters, Wegroes, the John McCain. http://tinyurl.com/6acmpv   H
+15279144    867430529   wondering when Twitter will be fixed. In the mean time, check out sketchypremise.com for new content.   H
+15279144    868103170   Got a new featured artist that will be up soon. Welcome BrevityTV!  H
+15279144    869236806   just posted 2 new Spine Online's. http://tinyurl.com/6beosn Also working on more new content, will be up shortly.   H
+15279144    869915908   Just posted some new comics strips and videos. really funny, raw, stuff.    H
+15279144    870911735   Going to open mic night tonight at the Laff Stop. We will soon be bringing you some really, really funny underground stand-ups. H
+1921951 871921305   two small bugfixes to the new Sunlight Labs API: fixed XML entity escaping for legislators URLs and in getZipsFromDistrict.xml  W
+15279144    873001429   New content up. Working on several new featured artists that we will be unveiling shortly. Stop by! H
+15279144    874734624   Workin on new Featured Artists. We have about 7 or 8 new artists to unveil. Stand-up comedians, sketch comedy writers, and more. stay tuned.    H
+15279144    875963518   Just announced our 3 newest Featured Artists: Big Game Hunters, BrevityTV, & 1 1/2 Mexicans. http://tinyurl.com/5d89ym Check 'em out!   H
+1921951 877294729   just added new way to get multiple legislators in a single request http://tinyurl.com/5fcdev    W
+15279144    878405646   Workin, workin, and some more workin. Setting up some cool stuff for the near future.   H
+15279144    880458211   Artie Lange entered rehab http://tinyurl.com/5vb7tj Hopefully it helps. Hes really damned funny.    H
+15279144    881547091   New content up! Got some more new featured artists we will be working on this weekend. Stay tuned.  H
+15279144    881963068   @ChadRiden good luck man. Thats cool. Daniel Tosh is pretty damned funny. And hooray booze! H
+15279144    881963588   Also, that was my first "@ somebody" comment. I feel special.   H
+15279144    882786428   bein bummed Bernie Mac Die. He will be missed.  H
+15279144    882801660   @RooftopComedy Thanks!  H
+15279144    883608204   @punchlinemag Me Neither.   H
+15279144    884278967   getting back into the work week. grrr. New content up, and new stuff coming soon.   H
+15279144    884489359   just made a new banner for Mike DeStefano, and put it on his MySpace http://tinyurl.com/6qqqpp. Also posted a new Mike D video. H
+15279144    884708105   just posted new Angry Man Dinner, Spine Online, and Big Game Hunters. http://tinyurl.com/6nvnd6 H
+15279144    885503195   @Chaseblogger nope, not really. But, if you need any help with any design related stuff, let me know.   H
+15279144    886425480   New Jeffrey Ross Special Airing August 22nd on Comedy Central http://tinyurl.com/66of9a should be hilarious H
+15279144    889711607   Just announced two new Featured Artists: Ass Party & John Gard. http://tinyurl.com/66l2ns   H
+15279144    891103115   Goin to Open Mic Night tonight to support our local Houston comedians. Also, we'll have a review for the Roast of Bob Saget up shortly. H
+1921951 894828588   sneak peek of new api method http://tinyurl.com/6nbb4v  W
+15279144    899342678   just posted a new 1/2 Mexicans. Alot of new content up, working on more featured artists. www.sketchypremise.com    H
+15279144    899399742   @Chaseblogger Craigslist is a great resource for creative people & gigs. It's worked wonders for us :)  H
+15279144    901746824   Michael Ian Back & Michael Showalter returning to Comedy Central. Hooray for quality! http://tinyurl.com/6akb9m H
+7378382 902150326   Currently staving off death by project management; it's a good time for a long weekend. B
+15279144    902943719   Just posted new Spine Online http://tinyurl.com/6anets  H
+15279144    904058677   Just posted a bunch of new pictures on our Flickr & MySpace. Check em out. http://tinyurl.com/6az9h2    H
+15279144    904147934   Just posted a new political article, and a couple new "Victims of the Web." www.sketchypremise.com  H
+15279144    904209460   Just set up the new "Upcoming Shows" page, dates of all of our Original Comedy & Featured artist's shows. http://tinyurl.com/5cobnj H
+15279144    904870474   Checking out some new possible Featured Artists, editing two of our new Original Comedy sections, to be announced soon. jokes and jokes...  H
+1921951 907087465   0.1 release of Sunlight API ruby gem for all your rubyists out there: http://sunlight.rubyforge.org/ (thanks @luigimontanez)    W
+15279144    907264447   Just got a really, really funny new Featured Artist that we'll be unveiling later in the week. Stay tuned.  H
+16112908    908074384   Getting ready for school. I can't believe I'm a real teacher! It's crazy. Who knew it would finally happen? W
+15279144    908785092   just posted about our new Shows Page, announcing all of our Artist's upcoming shows. http://tinyurl.com/5atcfn  H
+15279144    910716986   getting some stuff ready for our first Live Show, which will be early October at the Continental Club in Houston. Details soon. H
+15279144    913853857   Mike DeStefano's pilot was picked as a finalist in the New York Television Festival! http://tinyurl.com/5g96m7  H
+15279144    915490848   @RooftopComedy the comedians at the open mic were excited yall we're taping! Good stuff!    H
+15279144    915702773   @will_rogers Congrats! Thats awesome. I have to check my local listings...  H
+7378382 915797792   ... wondering if we will be sucked into a black hole tomorrow.....  B
+13352892    919244427   going vegan plus plus   B
+16264171    920439923   Can someone tell me if I-45 is underwater between spring and clear lake? I'm in small car.  H
+14590923    925949167   Brand new Optima battery in my Jeep won't hold a charge..GRRR. Getting out the jumper cables again. Then back to Advance Auto.  B
+7378382 933756282   Hanging out with my sweetie listening to post-punk grooves....  B
+7378382 941403191   Gwyneth Paltrow site GOOP.com on NY.Times The Medium - http://tinyurl.com/3gpz4n    B
+7378382 941920638   ... in the office "early"... still quite here, just the scattered sounds of clicking keyboard and cubicle shuffling...  B
+16528920    944923181   I'm preparing for happy hour tonight. 5 - 7 PM, 25 cent wings and drink specials.   W
+16528920    946808147   REDSKINS Party at Euphoria Bar and Lounge, free drinks occasionally, 25 cent wings for 12:30 - 4. You know how good they were last time.    W
+15511401    950250816   ? If anyone ever has any problems with Favtape, email me at ryansitatgmailcom anytime. I just updated the player, everything working good?  SD
+14590923    952722669   AdvancedAuto swapped out my bogus Optima for a new one (after making me wait 60mins while computer diagnosed it). Jeep is running again. :) B
+14590923    952724260   Went to get inspection sticker for Jeep. Failed! Apparently disconnecting battery makes it fail. Have to drive 60mi to reset computer first B
+14590923    952725553   Now I have scarlet letter "R" on Jeep windshield b/c of rejection. Who cares though, it'll get me to the trail this weekend. Woo hoo!!  B
+15511401    962796322   ? Sorry for the playing problems this morning, try playing songs again now, everything should be working great again.   SD
+15511401    964273961   There will be a short outage for upgrades tonight that is expected to not be longer then 20 minutes around 9:00 PM tonight. SD
+16833304    964634614   watching Indiana Jones and the Kingdom of the Crystal Skull Se
+15511401    964734363   ?? Listening to "Alive" by Beastie Boys on Favtape http://tinyurl.com/6ah875    SD
+16833304    965208701   Done with chololate chip pancakes, and off to coach soccer!!! GO STARHAWKS!!!!  Se
+15511401    965479899   ? Try making a Favtape mix for any weekend parties you are having! Let me know how it goes! SD
+16833304    965604719   Watching the lowloghts of the cougs vs USC... Bring out the beers!!! Only 9 pass attempts for Lopina? WTF! This ain't Nebraska! Se
