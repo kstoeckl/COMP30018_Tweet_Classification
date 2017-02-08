@@ -5,18 +5,18 @@
     Given a collection of Tweets of the form,
 
     UserID  TweetID Message                      LocationTag
+
     756546  5362058 Listeing to Mac Break Weekly    SD
 
     We were tasked with predicting the location of Twitter User based upon the
     content of their tweet.
 
-    The possible locations of the users and the corresponding tags were,
-
-    Boston          B
-    Seatle          Se
-    Houston         H
-    Washington      W
-    San Diego       SD
+    The possible locations of the users and the corresponding tags were:
+        | Boston          B
+        | Seatle          Se
+        | Houston         H
+        | Washington      W
+        | San Diego       SD
 
 
     We had 3 sets of Tweets, a training set, a development/validation set
@@ -36,6 +36,7 @@
     y value for each instance was simply left as the location tag.
 
     **Feature Selection:**
+
     The Chi2 test was then used to identify statistically significant features
     in the training data.
 
@@ -46,15 +47,17 @@
         performance.
 
     **Data Formatting:**
+
     The Training, Validation and Test data were encoded using the vector
     space model, which had been refined to only include the 'useful' features.
 
-    UNDERLINE!! A key step in this process was aggregating tweets which had the
+    A key step in this process was aggregating tweets which had the
     same UserID in the Validation and Test data sets. This enabled the 
     classifier to assign locations on a per user basis, which it was able to 
     do significantly more accurately thanks to the availability of more data.
 
     **Training and Classification:**
+    
     Two models were trialled throughout the project both from the sklearn
     library, a Multinomial Naive Bayes Classifier and the SGDClassifier 
     (Used to fit a linear Support Vector Machine through Stochastic Gradient 
@@ -126,7 +129,8 @@ featureSelection.py:
     best ngrams in terms of their score in the Chi2 test.
 
     Significant code segments modified `from
-    http://scikit-learn.org/dev/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py`_.
+    <http://scikit-learn.org/dev/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py`_.
+
 formatData.py:
     Takes a given set of feature names, the set of training tweets and
     the set of testing/validation tweets and constructs Xtrain, Ytrain,
