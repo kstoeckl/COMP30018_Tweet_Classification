@@ -11,7 +11,7 @@
     We were tasked with predicting the location of Twitter User based upon the
     content of their tweet.
 
-    The possible locations of the users and the corresponding tags were:
+    The possible locations of the users and the corresponding tags were,
         | Boston          B
         | Seatle          Se
         | Houston         H
@@ -57,7 +57,7 @@
     do significantly more accurately thanks to the availability of more data.
 
     **Training and Classification:**
-    
+
     Two models were trialled throughout the project both from the sklearn
     library, a Multinomial Naive Bayes Classifier and the SGDClassifier 
     (Used to fit a linear Support Vector Machine through Stochastic Gradient 
@@ -86,7 +86,7 @@
     The following additional metrics and graphics correspond to the 
     Validation Tweets.
 
-    ..figure:: ConfusionMatrix.png
+    ..figure:: https://raw.githubusercontent.com/kstoeckl/COMP30018_Tweet_Classification/master/ConfusionMatrix.png/ConfusionMatrix.png
 
 **Extensions:**
     There are a number of possible extensions too this project.
@@ -129,7 +129,8 @@ featureSelection.py:
     best ngrams in terms of their score in the Chi2 test.
 
     Significant code segments modified `from
-    <http://scikit-learn.org/dev/auto_examples/text/document_classification_20newsgroups.html#sphx-glr-auto-examples-text-document-classification-20newsgroups-py`_.
+    <http://scikit-learn.org/dev/auto_examples/text/document_classification_20newsgroups.html#>`_.
+
 
 formatData.py:
     Takes a given set of feature names, the set of training tweets and
