@@ -12,7 +12,7 @@
     content of their tweet.
 
     The possible locations of the users and the corresponding tags were,
-    
+
         | Boston          B
         | Seatle          Se
         | Houston         H
@@ -25,6 +25,7 @@
 
 **Process:**
     **Pre-Processing:**
+
     First the tweets were processed using regex, both making the format of
     the tweet more consistent and also retrieving key pieces of data such
     as the UserID and Location Tags.
@@ -87,7 +88,7 @@
     The following additional metrics and graphics correspond to the 
     Validation Tweets.
 
-    ..figure:: https://raw.githubusercontent.com/kstoeckl/COMP30018_Tweet_Classification/master/ConfusionMatrix.png
+     .. image:: https://raw.githubusercontent.com/kstoeckl/COMP30018_Tweet_Classification/master/ConfusionMatrix.png
 
 **Extensions:**
     There are a number of possible extensions too this project.
